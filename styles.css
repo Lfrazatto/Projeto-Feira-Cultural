@@ -62,12 +62,12 @@ html {scroll-behavior: smooth;}
 }
 
 .titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    color: #1f3b4d;
+    color: #000000;
     font-weight: 700;
     margin: 70px 0 30px;
-    font-size: 35px;
-    text-decoration: underline 3px #1f3b4d;
+    font-size: 55px;
     letter-spacing: 2px;
 }
 
@@ -109,14 +109,28 @@ footer a {
     text-decoration: none;
     font-weight: bold;
 }
-.footer { background-color: #d9d9d9; padding: 20px; position: relative; bottom: 0; }
-.footer-container {
-    display: flex;
-    justify-content: space-between;
-    max-width: 1200px;
-    margin: auto;
+.footer {
+  background-color: #d9d9d9;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  text-align: center;
+  color: #000; /* Troque se quiser manter o texto branco */
 }
-.footer-left p { font-size: 14px; margin: 5px 0; }
+
+.footer-container {
+  display: flex;
+  flex-direction: column; /* empilha os elementos verticalmente */
+  align-items: center;     /* alinha tudo ao centro */
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-left p {
+  font-size: 14px;
+  margin: 5px 0;
+}
 .footer-right { text-align: left; }
 .footer-right ul { list-style: none; padding: 0; }
 .footer-right li { margin: 8px 0; }
