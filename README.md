@@ -16,7 +16,7 @@ Menu de navegação (<nav>): fica fixo no topo e permite acessar as seções da 
 
 Seções (<section>): dividem o conteúdo em partes como História, Startups, Educação e Indústria.
 
-Imagens (<img>): acompanham os textos e têm bordas arredondadas.
+Imagens ( <img>): acompanham os textos e têm bordas arredondadas.
 
 Rodapé (<footer>): mostra créditos e links adicionais.
 
