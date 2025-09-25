@@ -1,42 +1,71 @@
-# Projeto escola
-Aprendendo versionamento de codigo em sala de aula.
 
-Explicação geral:
-O projeto é um site simples desenvolvido em HTML e CSS, criado para apresentar informações sobre os estados Espírito Santo e Minas Gerais.
-O HTML é usado para estruturar o conteúdo, como títulos, parágrafos, imagens, menu de navegação e rodapé. Já o CSS é responsável pelo estilo visual da página, deixando o site mais agradável e moderno, com cores, fontes, efeitos de rolagem suave, imagens com sombra e um menu fixo no topo.
+Projeto Feira Cultural
+
+Este repositório contém um site desenvolvido em HTML e CSS para apresentar informações culturais e tecnológicas sobre os estados Espírito Santo e Minas Gerais.
 
 
-Estrutura em tópicos
+Descrição
 
-HTML (estrutura do site)
+O projeto foi criado como parte de uma atividade escolar para a Feira Cultural, unindo conteúdo educativo e prática de programação web.
 
-Cabeçalho (<head>): define título, ícone e chama o CSS.
+O HTML organiza o conteúdo em seções (História, Startups, Educação, Indústria etc.).
 
-Menu de navegação (<nav>): fica fixo no topo e permite acessar as seções da página.
-
-Seções (<section>): dividem o conteúdo em partes como História, Startups, Educação e Indústria.
-
-Imagens ( <img>): acompanham os textos e têm bordas arredondadas.
-
-Rodapé (<footer>): mostra créditos e links adicionais.
+O CSS estiliza o site, adicionando cores, fontes, layout moderno, imagens com sombra e um menu fixo.
 
 
-CSS (estilo do site)
+Estrutura do Projeto
 
-Reset global: remove margens/paddings padrões.
+HTML (index.html e index2.html)
 
-Fonte e cores: usa fonte "Roboto" e fundo cinza claro.
+Define a estrutura do site.
 
-Rolagem suave: ao clicar nos links do menu, a rolagem até a seção é fluida.
+Contém:
 
-Menu fixo: com transparência e destaque ao passar o mouse.
+Menu de navegação fixo.
 
-Títulos e textos: centralizados, bem definidos e com margens.
+Seções com títulos, textos e imagens.
 
-Imagens: centralizadas, com sombra e efeito de zoom no hover.
-
-Rodapé: fundo cinza, créditos à esquerda e links à direita.
+Rodapé com créditos e links.
 
 
-Em resumo:
-O código une HTML (estrutura e conteúdo) e CSS (design e estilo) para criar um site educativo interativo e organizado para a Feira Cultural.
+
+CSS (styles.css)
+
+Define o visual do site.
+
+Inclui:
+
+Cores e fontes personalizadas.
+
+Rolagem suave entre seções.
+
+Efeito de zoom e sombra em imagens.
+
+Menu interativo e rodapé organizado.
+
+
+Objetivo
+
+Apresentar informações de forma clara e interativa.
+
+Praticar HTML, CSS e GitHub.
+
+Desenvolver habilidades de versionamento de código em equipe.
+
+
+Como usar
+
+1. Baixe ou clone este repositório:
+
+git clone: https://github.com/seu-usuario/Projeto-Feira-Cultural.git
+
+
+2. Abra o arquivo index.html no navegador.
+
+
+3. Navegue pelo site e explore as seções.
+
+
+Autores: Leonardo Machado / Jhonata Carvalho / Fábio Rodrigues / Arthur Aragon 
+
+Projeto desenvolvido por estudantes para a Feira Cultural, com foco em tecnologia e educação.
