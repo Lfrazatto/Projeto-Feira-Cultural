@@ -57,7 +57,7 @@ Como usar
 
 1. Baixe ou clone este repositório:
 
-git clone: https://github.com/seu-usuario/Projeto-Feira-Cultural.git
+git clone: https://github.com/Lfrazatto/Projeto-Feira-Cultural.git
 
 
 2. Abra o arquivo index.html no navegador.
